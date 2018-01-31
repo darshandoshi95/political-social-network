@@ -10,10 +10,10 @@ import time
 from TwitterAPI import TwitterAPI
 
 
-consumer_key = 'myP6Z1gLX5sZIqoRsjewk9Il5'
-consumer_secret = 'PC42zmy3X7vslsoLL1ZStQKe0xnQOdWQ17Ocgup21HuP0Dlk9C'
-access_token = 	'775314049563111424-JeHimgI5SHred8mrM8cTS72ENyzAadX'
-access_token_secret = 'JUAU9R49D4BGW5FFHrvf9UsqyQATBnJDUfjLYQY3Ukw2z'
+consumer_key = 'create your own keys'
+consumer_secret = 'donot share secret keys'
+access_token = 	''
+access_token_secret = ''
 
 
 
